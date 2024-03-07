@@ -1,0 +1,26 @@
+{
+  "name": "currency-xchange-ls",
+  "version": "1.0.0",
+  "description": "A lightweight npm package for seamless currency conversion in JavaScript applications.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkumar5606/currency-xchange-ls.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhishek Kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/abhishekkumar5606/currency-xchange-ls/issues"
+  },
+  "homepage": "https://github.com/abhishekkumar5606/currency-xchange-ls#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
