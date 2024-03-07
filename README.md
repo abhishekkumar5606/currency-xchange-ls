@@ -14,3 +14,6 @@ To install currency-xchange-ls,
 simply use npm:
 
 npm install currency-xchange-ls
+
+To run code:
+`node index.js`
